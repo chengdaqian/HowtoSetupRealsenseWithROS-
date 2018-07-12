@@ -11,8 +11,6 @@ To make Realsense work with ROS, you have to complete two steps:
 - Install `librealsense`. It's a library that provides support for Realsense devices. After installing it, you will be able to use the camera with `realsense-view`.
 - Install `realsense2_camera`. It's the ROS wrapper for Realsense.
 
----
-
 ## Instruction
 
 **Install librealsense**
